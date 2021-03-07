@@ -6,3 +6,5 @@ NEED TO FIX/UPDATE:
  - Change type of InceptionDate and Expiry from String to Date 
  - Catch Error (null CoverNote, null inceptiondate,...)
  - Improve sql query to get last record of WSContractDetail table (Consider to remove this)
+
+run WebserviceDBScript to test 
